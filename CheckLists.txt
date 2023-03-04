@@ -1,0 +1,5 @@
+#: Verification number
+Tittle: Action name      
+Expected Result: Description of expected result
+Actual Result: Status of the actual result
+Comments: Additional notes
